@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Environment variables
+.env
+# .env.local
+
+# Compiled files
+dist/
+build/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Monorepo-related files
+nx-report/
